@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sadeer 👋
 
-<!--
-**sadeerkhudri/sadeerkhudri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Engineering student at McGill University** who enjoys building end-to-end projects across **software, embedded systems, and IoT**—from real-time web dashboards to hardware debugging and PCB design.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Java, Python, JavaScript/HTML/CSS, C, Bash, C#
+- **Tools/Platforms:** Git, Linux, Raspberry Pi, Arduino, Flask/Socket.IO, WordPress, EasyEDA/JLCPCB
+- **Interests:** IoT, distributed systems, controls/automation, reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **IoT Thermostat (Raspberry Pi + WebSockets):** real-time dashboard + sensors/actuators + controls
+- **Bluetooth Controller + Arduino Car:** custom PCB + embedded comms + debugging
+- **FTC Robotics:** PIDF-based autonomous routines + mechanism iteration + outreach
+
+## How to reach me
+- **Email:** sadeer.al-khudri@mail.mcgill.ca  
+- **LinkedIn:** https://linkedin.com/in/sadeerkhudri
+
+Always happy to connect with people working on **embedded/software** projects or internship opportunities.
