@@ -1,6 +1,6 @@
 # Hi, I'm Sadeer 👋
 
-I’m a **Computer Engineering student at McGill University** who enjoys building end-to-end projects across **software, embedded systems, and IoT**, from real-time web dashboards to hardware debugging and PCB design.
+I’m a **Computer Engineering student at McGill University** who enjoys building end-to-end projects across **software, embedded systems, and IoT**. From real-time web dashboards to hardware debugging and PCB design.
 
 ## What I work with
 - **Languages:** Java, Python, JavaScript/HTML/CSS, C, Bash, C#
