@@ -2,18 +2,18 @@
 
 I’m a **Computer Engineering student at McGill University** who enjoys building end-to-end projects across **software, embedded systems, and IoT**. From real-time web dashboards to hardware debugging and PCB design.
 
-## What I work with
-- **Languages:** Java, Python, JavaScript/HTML/CSS, C, Bash, C#
-- **Tools/Platforms:** Git, Linux, Raspberry Pi, Arduino, Flask/Socket.IO, WordPress, EasyEDA/JLCPCB
-- **Interests:** IoT, distributed systems, controls/automation, reliability
+## 🧰 What I use
+- **Languages:** Java, Python, JavaScript/HTML/CSS, C, Bash, C#, Turing
+- **Tools/Platforms:** Git, Linux, Raspberry Pi, Arduino, MATLAB, WordPress, EasyEDA/JLCPCB
+- **Currently into:** IoT, embedded systems, controls/automation, distributed systems
 
-## Featured projects
-- **IoT Thermostat (Raspberry Pi + WebSockets):** real-time dashboard + sensors/actuators + controls
-- **Bluetooth Controller + Arduino Car:** custom PCB + embedded comms + debugging
-- **FTC Robotics:** PIDF-based autonomous routines + mechanism iteration + outreach
+## 🚀 Featured projects
+- **IoT Thermostat (Raspberry Pi + WebSockets):** real-time web dashboard + sensors/actuators + control logic  
+- **Bluetooth Controller + Arduino Car:** custom PCB + embedded Bluetooth + lots of debugging  
+- **Monopoly in Java:** full game build using OOP (players, board, properties, rules, game flow)
 
-## How to reach me
+## 📫 Reach me
 - **Email:** sadeer.al-khudri@mail.mcgill.ca  
-- **LinkedIn:** https://linkedin.com/in/sadeerkhudri
+- **LinkedIn:** https://linkedin.com/in/sadeerkhudri  
 
 Always happy to connect with people working on **embedded/software** projects or internship opportunities.
