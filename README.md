@@ -3,7 +3,7 @@
 I’m a **Computer Engineering student at McGill University** who enjoys building end-to-end projects across **software, embedded systems, and IoT**. From real-time web dashboards to hardware debugging and PCB design.
 
 ## 🧰 What I use
-- **Languages:** Java, Python, JavaScript/HTML/CSS, C, Bash, C#, Turing
+- **Languages:** Java, Python, JavaScript/HTML/CSS, C, Bash, Turing
 - **Tools/Platforms:** Git, Linux, Raspberry Pi, Arduino, MATLAB, WordPress, EasyEDA/JLCPCB
 - **Currently into:** IoT, embedded systems, controls/automation, distributed systems
 
